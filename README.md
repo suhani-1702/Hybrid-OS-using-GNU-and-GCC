@@ -70,7 +70,6 @@
 │   ├── ordered_array.h
 │   ├── string.c
 │   └── string.h
-├── LICENSE
 ├── linker.ld
 ├── Makefile
 ├── memory
